@@ -1,8 +1,8 @@
 <h3 align="center">👋 Hi, I'm Alpheus Godswill Umanah ✌️</h3>
-<p align="center">
-  <!-- <a href="https://utibeumanah.netlify.app">🌍 Website</a> • 
-  <a href="https://utibeabasiumanah6.medium.com/">📖 Blog</a> •  -->
-</p>
+<!-- <p align="center">
+   <a href="https://utibeumanah.netlify.app">🌍 Website</a> • 
+  <a href="https://utibeabasiumanah6.medium.com/">📖 Blog</a> • 
+</p> -->
 
 ![](logo.jpg)
  
@@ -26,14 +26,6 @@ I am very passionate about tech  and eating crazy ideas for breakfast 🍗🌭�
 
 😎🥡🍛🥩 Fun Fact: 2. "Good artist copy great artist steal" -- 
 
-[![Alpheus Godswill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpheus-godswill1&count_private=true&show_icons=true&theme=radical)](https://github.com/Alpheus-godswill1/github-readme-stats) [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpheus-godswill1&langs_count=5&theme=radical&hide=ruby )]()
-<!--
-**utibeabasi6/utibeabasi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Alpheus Godswill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpheus-godswill1&count_private=true&show_icons=true&theme=merko)](https://github.com/Alpheus-godswill1/github-readme-stats) [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpheus-godswill1&langs_count=5&theme=merko&hide=ruby)]()
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpheus-godswill1&layout=compact)](https://github.com/Alpheus-godswill1/github-readme-stats)
