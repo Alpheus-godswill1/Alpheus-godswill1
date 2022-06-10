@@ -26,6 +26,8 @@ I am very passionate about tech  and eating crazy ideas for breakfast 🍗🌭�
 
 😎🥡🍛🥩 Fun Fact: 2. "Good artist copy great artist steal" -- 
 
-[![Alpheus Godswill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpheus-godswill1&count_private=true&show_icons=true&theme=merko)](https://github.com/Alpheus-godswill1/github-readme-stats) [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpheus-godswill1&langs_count=5&theme=merko&hide=ruby)]()
+[![Alpheus Godswill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpheus-godswill1&count_private=true&show_icons=true&theme=merko)](https://github.com/Alpheus-godswill1/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpheus-godswill1&layout=compact)](https://github.com/Alpheus-godswill1/github-readme-stats)
+ <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpheus-godswill1&langs_count=5&hide=ruby)]() -->
+
+[![My Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpheus-godswill1&layout=compact&theme=merko)](https://github.com/Alpheus-godswill1/github-readme-stats)
