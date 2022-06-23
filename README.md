@@ -8,7 +8,7 @@
  
  I am a Fullstack Engineer 😎😊😋 LAMP STACK .
 
-I am a Backend Engineer  ❤🧡💻
+I am a Backend Engineer  ❤🧡💻 .
 
 I am very passionate about tech  and eating crazy ideas for breakfast 🍗🌭🧀 yummy!.
 
