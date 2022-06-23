@@ -22,7 +22,7 @@ I am very passionate about tech  and eating crazy ideas for breakfast 🍗🌭�
 
 🛒 Fun fact: ...i don't know any but google knows all things .
 
-🎇🎆🎆🎨 Fun Fact: 1. Keep your friends close but your enemies closer 👩🏼‍🤝‍🧑🏿👨‍👨‍👦‍👦👨‍👨‍👦‍👦
+🎇🎆🎆🎨 Fun Fact: 1. Keep your friends close but your enemies closer 👩🏼‍🤝‍🧑🏿👨‍👨‍👦‍👦👨‍👨‍👦‍👦 .
 
 😎🥡🍛🥩 Fun Fact: 2. "Good artist copy, great artist steal" -- 
 
