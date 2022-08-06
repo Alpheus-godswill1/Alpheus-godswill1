@@ -5,10 +5,8 @@
 </p> -->
 
 ![](logo.jpg)
- 
- I am a Fullstack Engineer 😎😊😋 LAMP STACK .
 
-I am a Backend Engineer  ❤🧡💻 .
+I am a Backend Engineer  ❤🧡💻 Proficient in PHP, I picked LAMP STACK as my core .
 
 I am very passionate about tech  and eating crazy ideas for breakfast 🍗🌭🧀 yummy!.
 
