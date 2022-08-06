@@ -22,7 +22,7 @@ I am very passionate about tech  and eating crazy ideas for breakfast 🍗🌭�
 
 🎇🎆🎆🎨 Fun Fact: 1. Keep your friends close but your enemies closer 👩🏼‍🤝‍🧑🏿👨‍👨‍👦‍👦👨‍👨‍👦‍👦 .
 
-😎🥡🍛🥩 Fun Fact: 2. "The goal is to help you fix your backend functionality, and processes to fit customers or end users needs and help scale your business." -- 
+😎🥡🍛🥩 Fun Fact: 2. "The goal is to help you fix your backend functionality, and processes to fit customers or end users needs and help scale your business."
 
 [![Alpheus Godswill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpheus-godswill1&count_private=true&show_icons=true&theme=merko)](https://github.com/Alpheus-godswill1/github-readme-stats)
 
