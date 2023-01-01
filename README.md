@@ -10,9 +10,7 @@ I am a Backend Engineer  ❤🧡💻 Proficient in PHP, I picked LAMP STACK as m
 
 I am very passionate about tech  and eating crazy ideas for breakfast 🍗🌭🧀 yummy!.
 
- I’m currently working on building a food 🥗🥙🥪🌮delivery Website to help spread food around .
-
-🎋 I’m currently learning more backend Engineering , and also want to dive into DevOps, cloud  🐱‍🏍🐱‍🏍 .
+🎋 I’m currently learning more about Backend Engineering , and also want to dive into DevOps, cloud  🐱‍🏍🐱‍🏍 .
 
 🐢 I’m looking to collaborate on Backend related projects which need to be written in PHP.
 
