@@ -4,7 +4,7 @@
   <a href="https://alpheus.hashnode.dev/">📖BLOG</a> • 
 </p> 
 
-![](logo.jpg)
+<!-- ![](logo.jpg) -->
 <p align="center">
   <img src="logo.jpg" alt="Logo">
 </p>
