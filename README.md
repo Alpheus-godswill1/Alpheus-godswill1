@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi, I'm Alpheus Godswill ✌️</h3>
 <p align="center">
 <!--    <a href="https://utibeumanah.netlify.app">🌍 Website</a> •  -->
-  <a href="www.alpheus.hashnode.dev">📖BLOG</a> • 
+  <a href="[www.alpheus.hashnode.dev](https://alpheus.hashnode.dev/)">📖BLOG</a> • 
 </p> 
 
 ![](logo.jpg)
