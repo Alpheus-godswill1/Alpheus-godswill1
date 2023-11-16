@@ -1,29 +1,39 @@
-<h3 align="center">👋 Hi, I'm Alpheus Godswill Umanah ✌️</h3>
-<!-- <p align="center">
-   <a href="https://utibeumanah.netlify.app">🌍 Website</a> • 
-  <a href="https://utibeabasiumanah6.medium.com/">📖 Blog</a> • 
-</p> -->
+<h3 align="center">👋 Hi, I'm Alpheus Godswill ✌️</h3>
+<p align="center">
+<!--    <a href="https://utibeumanah.netlify.app">🌍 Website</a> •  -->
+  <a href="https://www.alpheus.hashnode.dev">📖BLOG</a> • 
+</p> 
 
 ![](logo.jpg)
+<p align="center">
+  <img src="logo.jpg" alt="Logo">
+</p>
 
-I am a Backend Engineer  ❤🧡💻 Proficient in PHP, I picked LAMP STACK as my core .
+Welcome to my GitHub repository! 👋 I'm Alpheus Godswill, a dedicated DevOps Engineer and Technical Writer passionate about forging a synergy between state-of-the-art technology and lucid documentation. This space showcases a fusion of my hands-on DevOps initiatives, comprehensive technical writing endeavors, and insightful articles.
 
-I am very passionate about tech  and eating crazy ideas for breakfast 🍗🌭🧀 yummy!.
+## 🛠️ What I Do:
 
-🎋 I’m currently learning more about Backend Engineering , and also want to dive into DevOps, cloud  🐱‍🏍🐱‍🏍 .
+- **DevOps Mastery:** I specialize in orchestrating seamless collaboration between development and operations, ensuring streamlined workflows and robust system reliability.
 
-🐢 I’m looking to collaborate on Backend related projects which need to be written in PHP.
+- **Technical Writing Excellence:** Immerse yourself in my in-depth guides and tutorials covering a spectrum of tech subjects. From Docker and containerization to advanced DevOps techniques, my aim is to simplify intricate concepts.
 
-💬👨🏼‍💻👩🏼‍💻 Ask me about Web Backend and anything  operation on the backend related to PHP .
+## 📚 Latest Technical Articles:
 
-🛒 Fun fact: ...I don't know any thing but google knows all things .
+1. **[Docker Revealed: Comprehensive Guide Tailored for All Skill Levels in Docker](https://alpheus.hashnode.dev/docker-revealed-comprehensive-guide-tailored-for-all-skill-levels-in-docker):** Explore the transformative world of Docker, catering to individuals at every level of expertise.
 
-🎇🎆🎆🎨 Fun Fact: 1. Keep your friends close but your enemies closer 👩🏼‍🤝‍🧑🏿👨‍👨‍👦‍👦👨‍👨‍👦‍👦 .
+2. **[Embracing Git: Your Guide to the Ultimate Version Control System](https://alpheus.hashnode.dev/embracing-git-your-guide-to-the-ultimate-version-control-system):** Delve into the power of Git for effective version control and collaborative development.
 
-😎🥡🍛🥩 Fun Fact: 2. "The goal is to help you fix your backend functionality, and processes to fit customers or end users needs and help scale your business."
+## 🌐 Connect with Me:
+
+- **Twitter:** [@Alpheus___](https://twitter.com/Alpheus___)
+- **LinkedIn:** [Alpheus Godswill](https://www.linkedin.com/in/alpheus-godswill/)
+
+## 📬 Let's Collaborate:
+
+Interested in collaboration, writing opportunities, or have questions about DevOps? Feel free to reach out! Together, we can build, innovate, and navigate the dynamic world of technology. 🚀🖥️
+
+Happy coding! 🤖✨
 
 [![Alpheus Godswill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpheus-godswill1&count_private=true&show_icons=true&theme=merko)](https://github.com/Alpheus-godswill1/github-readme-stats)
-
- <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpheus-godswill1&langs_count=5&hide=ruby)]() -->
 
 [![My Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpheus-godswill1&layout=compact&theme=merko)](https://github.com/Alpheus-godswill1/github-readme-stats)
