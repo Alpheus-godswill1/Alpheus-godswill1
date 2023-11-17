@@ -6,7 +6,7 @@
 
 <!-- ![](logo.jpg) -->
 <p align="center">
-  <img src="logo.jpg" alt="Logo" style="max-width: 50%; max-height: 50%; height: auto;">
+  <img src="logo.jpg" alt="Logo" style="max-width: 50%; max-height: 30%; height: auto;">
 </p>
 
 Welcome to my GitHub repository! 👋 I'm Alpheus Godswill, a dedicated DevOps Engineer and Technical Writer passionate about forging a synergy between state-of-the-art technology and lucid documentation. This space showcases a fusion of my hands-on DevOps initiatives, comprehensive technical writing endeavors, and insightful articles.
