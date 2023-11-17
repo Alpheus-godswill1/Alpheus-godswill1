@@ -5,7 +5,7 @@
 </p> 
 
 <!-- ![](logo.jpg) -->
-<p align="center">
+<p align="center" style="max-width: 50%; height: 50%; width: auto;">
   <img src="logo.jpg" alt="Logo" style="max-width: 50%; height: 50%; width: auto;">
 </p>
 
@@ -34,6 +34,6 @@ Interested in collaboration, writing opportunities, or have questions about DevO
 
 Happy coding! 🤖✨
 
-[![Alpheus Godswill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpheus-godswill1&count_private=true&show_icons=true&theme=merko)](https://github.com/Alpheus-godswill1/github-readme-stats)
+<!-- [![Alpheus Godswill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpheus-godswill1&count_private=true&show_icons=true&theme=merko)](https://github.com/Alpheus-godswill1/github-readme-stats) -->
 
-[![My Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpheus-godswill1&layout=compact&theme=merko)](https://github.com/Alpheus-godswill1/github-readme-stats)
+<!-- [![My Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpheus-godswill1&layout=compact&theme=merko)](https://github.com/Alpheus-godswill1/github-readme-stats) -->
