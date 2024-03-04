@@ -33,7 +33,7 @@
   <p><h2>⟫⟫⟫⟫ Documentation:</h2> Markdown, AsciiDoc, Sphinx, Read the Docs</p>
   <p><h2>⟫⟫⟫⟫ Project Management:</h2> Agile Project Management, ( It depends on what may be best at the time )</p>
 
-<h2>I have demonstrated proficiency in some of the mentioned skills and possess tangible proof, while actively acquiring expertise in others.</h2>
+<h4>I have demonstrated proficiency in some of the mentioned skills and possess tangible proof, while actively acquiring expertise in others.</h4>
 
 ## 📬 Few things I may be Interested now In:
 1. Crafting robust solutions with a strong focus on DevOps principles, emphasizing Infrastructure, Linux, and Backend services.
