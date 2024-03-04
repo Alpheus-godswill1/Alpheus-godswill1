@@ -1,7 +1,7 @@
 <h1 align="center"><em>Hi, I'm Alpheus (DevOps Engineer | Technical Writer) ✌️</em></h1>
-<p align="center"> I help bring complex subject to simple forms through my writing </p>
+<h4 align="center">"I specialize in simplifying complex subjects through my writing."</h4>
 <p align="center">
-  <a href="https://alpheus.hashnode.dev/">📖BLOG</a> • 
+  <h5 href="https://alpheus.hashnode.dev/">📖BLOG</h5> • 
 </p>
 
 # About Me:
@@ -49,8 +49,10 @@ Some of the above skills I have practiced and have proof of, and some I am activ
 
 3. Providing valuable insights into DevOps, Infrastructure, Linux, Backend, APIs, System Design, and Architectural patterns through recommended articles, nurturing positive development.
 
-If you resonate with my approach, let's connect on Twitter or LinkedIn for further collaboration!"
+If you resonate with my approach, let's connect on Twitter or LinkedIn for further collaboration!
+
 4. <em>Twitter:</em> [@Alpheus\_\_\_](https://twitter.com/Alpheus___)
+
 5.  <em>LinkedIn:</em> [Alpheus Godswill](https://www.linkedin.com/in/alpheus-godswill/)
 
 Happy coding! 🤖✨
