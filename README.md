@@ -31,7 +31,7 @@
   <p><strong style="color:cyan;">⟫⟫⟫⟫ Deployment Strategies:</strong> Blue/Green Deployment, Canary Deployment, Rolling Deployment</p>
   <p><strong style="color:cyan;">⟫⟫⟫⟫ High Availability and Disaster Recovery:</strong> Multi-AZ Deployments, Auto Scaling, Disaster Recovery Planning</p>
   <p><strong style="color:cyan;">⟫⟫⟫⟫ Collaboration and Communication Tools:</strong> Slack, Microsoft Teams, Zoom, Jira, Confluence</p>
-  <p><strong style="color:cyan;">⟫⟫⟫⟫ Agile Methodologies:</strong> Scrum, Kanban, Agile Frameworks</p>
+  <p><strong style="color:Blue;">⟫⟫⟫⟫ Agile Methodologies:</strong> Scrum, Kanban, Agile Frameworks</p>
   <p><strong>⟫⟫⟫⟫ Documentation:</strong> Markdown, AsciiDoc, Sphinx, Read the Docs</p>
   <p><strong style="color:cyan;">⟫⟫⟫⟫ Project Management:</strong> Agile Project Management, ( It depends on what may be best at the time )</p>
 
