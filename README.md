@@ -1,8 +1,8 @@
 <h1 align="center"><em>Hi, I'm Alpheus (DevOps Engineer | Technical Writer) ✌️</em></h1>
 <h4 align="center">"I specialize in simplifying complex subjects through my writing."</h4>
-<p align="center">
-  <h5 href="https://alpheus.hashnode.dev/">📖BLOG</h5> • 
-</p>
+<h5 align="center">
+  <a href="https://alpheus.hashnode.dev/">📖BLOG</a>  
+</h5>
 
 # About Me:
 
