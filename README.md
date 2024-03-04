@@ -14,26 +14,24 @@
 
 # DevOps Skills:
 
-<p><h2  style="color:cyan;">⟫⟫⟫⟫ Cloud Platforms:</h2> AWS (Amazon Web Services), Azure, Google Cloud Platform (GCP), DigitalOcean</p>
- <p> <strong style="color:cyan;">⟫⟫⟫⟫ Infrastructure as Code (IaC):</strong> Terraform, CloudFormation, ARM Templates</p>
- <p><strong> ⟫⟫⟫⟫ Containerization:</strong> Docker, Kubernetes, Amazon ECS, Google Kubernetes Engine (GKE)</p>
- <p> <strong style="color:cyan;">⟫⟫⟫⟫ Configuration Management:</strong> Ansible, Puppet, Chef, SaltStack</p>
-<p><strong>⟫⟫⟫⟫ Continuous Integration/Continuous Deployment (CI/CD):</strong> Jenkins, GitLab CI/CD, CircleCI, Travis CI</p>
- <p> <strong style="color:cyan;">⟫⟫⟫⟫ Version Control Systems:</strong> Git, GitHub, GitLab, Bitbucket</p>
- <p> <strong style="color:cyan;">⟫⟫⟫⟫ Monitoring and Logging:</strong> Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Splunk</p>
- <p> <strong style="color:cyan;">⟫⟫⟫⟫ Security:</strong> Identity and Access Management (IAM), Security Groups, VPNs, Security Compliance (PCI DSS, HIPAA)</p>
- <p> <strong style="color:cyan;">⟫⟫⟫⟫ Networking:</strong> TCP/IP, DNS, VPN, Load Balancing (ELB, ALB, NLB), CDN</p>
- <p> <strong style="color:cyan;">⟫⟫⟫⟫ Scripting and Automation:</strong> Bash, Python, PowerShell, Ruby</p>
+<><h2>⟫⟫⟫⟫ Cloud Platforms:</h2> AWS (Amazon Web Services), Azure, Google Cloud Platform (GCP), DigitalOceh2>⟫⟫⟫⟫ Infrastructure as Code (IaC):<> Terraform, CloudFormation, ARM Templates</p>
+ <p><h2> ⟫⟫⟫⟫ Containerization:</h2> Docker, Kubernetes, Amazon ECS, Google Kubernetes Engine (GKE)</p>h2>⟫⟫⟫⟫ Configuration Management:<> Ansible, Puppet, Chef, SaltStack</p>
+<p><h2>⟫⟫⟫⟫ Continuous Integration/Continuous Deployment (CI/CD):</h2> Jenkins, GitLab CI/CD, CircleCI, Travis CI</p>
+ <p> <h2>⟫⟫⟫⟫ Version Control Systems:</h2> Git, GitHub, GitLab, Bitbucket</p>
+ <p> <h2>⟫⟫⟫⟫ Monitoring and Logging:</h2> Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Splunk</p>
+ <p> <h2>⟫⟫⟫⟫ Security:</h2> Identity and Access Management (IAM), Security Groups, VPNs, Security Compliance (PCI DSS, HIPAA)</p>
+ <p> <h2>⟫⟫⟫⟫ Networking:</h2> TCP/IP, DNS, VPN, Load Balancing (ELB, ALB, NLB), CDN</p>
+ <p> <h2>⟫⟫⟫⟫ Scripting and Automation:</h2> Bash, Python, PowerShell, Ruby</p>
  <p> ⟫⟫⟫⟫ Database Management:</strong> MySQL, PostgreSQL, MongoDB, Amazon RDS, Amazon DynamoDB</p>
-<p><strong style="color:cyan;">⟫⟫⟫⟫ Infrastructure Monitoring:</strong> Nagios, Zabbix, Datadog, New Relic</p>
- <p> <strong style="color:cyan;">⟫⟫⟫⟫ Orchestration:</strong> Terraform, Kubernetes, AWS ECS, Docker Swarm</p>
- <p> <strong style="color:cyan;">⟫⟫⟫⟫ Backup and Recovery:</strong> AWS Backup, Azure Backup, Veeam</p>
-  <p><strong style="color:cyan;">⟫⟫⟫⟫ Deployment Strategies:</strong> Blue/Green Deployment, Canary Deployment, Rolling Deployment</p>
-  <p><strong style="color:cyan;">⟫⟫⟫⟫ High Availability and Disaster Recovery:</strong> Multi-AZ Deployments, Auto Scaling, Disaster Recovery Planning</p>
-  <p><strong style="color:cyan;">⟫⟫⟫⟫ Collaboration and Communication Tools:</strong> Slack, Microsoft Teams, Zoom, Jira, Confluence</p>
-  <p><strong style="color:Blue;">⟫⟫⟫⟫ Agile Methodologies:</strong> Scrum, Kanban, Agile Frameworks</p>
-  <p><strong>⟫⟫⟫⟫ Documentation:</strong> Markdown, AsciiDoc, Sphinx, Read the Docs</p>
-  <p><strong style="color:cyan;">⟫⟫⟫⟫ Project Management:</strong> Agile Project Management, ( It depends on what may be best at the time )</p>
+<p><h2>⟫⟫⟫⟫ Infrastructure Monitoring:</p> Nagios, Zabbix, Datadog, New Relic</p>
+ <p> <h2>⟫⟫⟫⟫ Orchestration:</h2> Terraform, Kubernetes, AWS ECS, Docker Swarm</p>
+ <p> <h2>⟫⟫⟫⟫ Backup and Recovery:</h2> AWS Backup, Azure Backup, Veeam</p>
+  <p><h2>⟫⟫⟫⟫ Deployment Strategies:</h2> Blue/Green Deployment, Canary Deployment, Rolling Deployment</p>
+  <p><h2>⟫⟫⟫⟫ High Availability and Disaster Recovery:</h2> Multi-AZ Deployments, Auto Scaling, Disaster Recovery Planning</p>
+  <h2>⟫⟫⟫⟫ Collaboration and Communication Tools:</h2> Slack, Microsoft Teams, Zoom, Jira, Confluence</p>
+  <h2>⟫⟫⟫⟫ Agile Methodologies:</h2> Scrum, Kanban, Agile Frameworks</p>
+  <h2>⟫⟫⟫⟫ Documentation:</h2> Markdown, AsciiDoc, Sphinx, Read the Docs</p>
+  <h2>⟫⟫⟫⟫ Project Management:</h2> Agile Project Management, ( It depends on what may be best at the time )</p>
 
 Some of the above skills I have practiced and have proof of, and some I am actively learning currently.</p>
 
