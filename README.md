@@ -14,7 +14,7 @@
 
 # DevOps Skills:
 
-<p><strong  style="color:cyan;">⟫⟫⟫⟫ Cloud Platforms:</strong> AWS (Amazon Web Services), Azure, Google Cloud Platform (GCP), DigitalOcean</p>
+<p><h2  style="color:cyan;">⟫⟫⟫⟫ Cloud Platforms:</h2> AWS (Amazon Web Services), Azure, Google Cloud Platform (GCP), DigitalOcean</p>
  <p> <strong style="color:cyan;">⟫⟫⟫⟫ Infrastructure as Code (IaC):</strong> Terraform, CloudFormation, ARM Templates</p>
  <p><strong> ⟫⟫⟫⟫ Containerization:</strong> Docker, Kubernetes, Amazon ECS, Google Kubernetes Engine (GKE)</p>
  <p> <strong style="color:cyan;">⟫⟫⟫⟫ Configuration Management:</strong> Ansible, Puppet, Chef, SaltStack</p>
