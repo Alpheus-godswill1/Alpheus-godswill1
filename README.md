@@ -1,27 +1,41 @@
-<h3 align="center">👋 Hi, I'm Alpheus Godswill ✌️</h3>
+<h3 align="center">👋 Hi, I'm Alpheus (DevOps Engineer | Technical Writer) ✌️</h3>
+<p align="center"> I help bring complex subject to simple forms through my writing </p>
 <p align="center">
-<!--    <a href="https://utibeumanah.netlify.app">🌍 Website</a> •  -->
   <a href="https://alpheus.hashnode.dev/">📖BLOG</a> • 
 </p> 
 
-<!-- ![](logo.jpg) -->
-<!-- <p align="center" style="max-width: 50%; height: 50%; width: auto;">
-  <img src="logo.jpg" alt="Logo" style="max-width: 50%; height: 50%; width: auto;">
-</p> -->
+About Me:
 
-Welcome to my GitHub repository! 👋 I'm Alpheus Godswill, a dedicated DevOps Engineer and Technical Writer passionate about forging a synergy between state-of-the-art technology and lucid documentation. This space showcases a fusion of my hands-on DevOps initiatives, comprehensive technical writing endeavors, and insightful articles.
+⟫⟫⟫⟫ I am Alpheus, a dedicated DevOps Engineer passionate about cloud-based projects and infrastructure.
 
-## 🛠️ What I Do:
+⟫⟫⟫⟫ Active practitioner of DevOps methodologies, committed to continuous learning and building efficient systems.
 
-- **DevOps Mastery:** I specialize in orchestrating seamless collaboration between development and operations, ensuring streamlined workflows and robust system reliability.
+⟫⟫⟫⟫ Skilled in leveraging cloud technologies to optimize operations and drive innovation in software development.
 
-- **Technical Writing Excellence:** Immerse yourself in my in-depth guides and tutorials covering a spectrum of tech subjects. From Docker and containerization to advanced DevOps techniques, my aim is to simplify intricate concepts.
+DevOps Skills:
 
-## 📚 Latest Technical Articles:
+⟫⟫⟫⟫ Cloud Platforms: AWS (Amazon Web Services), Azure, Google Cloud Platform (GCP), DigitalOcean
+⟫⟫⟫⟫ Infrastructure as Code (IaC): Terraform, CloudFormation, ARM Templates
+⟫⟫⟫⟫ Containerization: Docker, Kubernetes, Amazon ECS, Google Kubernetes Engine (GKE)
+⟫⟫⟫⟫ Configuration Management: Ansible, Puppet, Chef, SaltStack
+⟫⟫⟫⟫ Continuous Integration/Continuous Deployment (CI/CD): Jenkins, GitLab CI/CD, CircleCI, Travis CI
+⟫⟫⟫⟫ Version Control Systems: Git, GitHub, GitLab, Bitbucket
+⟫⟫⟫⟫ Monitoring and Logging: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Splunk
+⟫⟫⟫⟫ Security: Identity and Access Management (IAM), Security Groups, VPNs, Security Compliance (PCI DSS, HIPAA)
+⟫⟫⟫⟫ Networking: TCP/IP, DNS, VPN, Load Balancing (ELB, ALB, NLB), CDN
+⟫⟫⟫⟫ Scripting and Automation: Bash, Python, PowerShell, Ruby
+⟫⟫⟫⟫ Database Management: MySQL, PostgreSQL, MongoDB, Amazon RDS, Amazon DynamoDB
+⟫⟫⟫⟫ Infrastructure Monitoring: Nagios, Zabbix, Datadog, New Relic
+⟫⟫⟫⟫ Orchestration: Terraform, Kubernetes, AWS ECS, Docker Swarm
+⟫⟫⟫⟫ Backup and Recovery: AWS Backup, Azure Backup, Veeam
+⟫⟫⟫⟫ Deployment Strategies: Blue/Green Deployment, Canary Deployment, Rolling Deployment
+⟫⟫⟫⟫ High Availability and Disaster Recovery: Multi-AZ Deployments, Auto Scaling, Disaster Recovery Planning
+⟫⟫⟫⟫ Collaboration and Communication Tools: Slack, Microsoft Teams, Zoom, Jira, Confluence
+⟫⟫⟫⟫ Agile Methodologies: Scrum, Kanban, Agile Frameworks
+⟫⟫⟫⟫ Documentation: Markdown, AsciiDoc, Sphinx, Read the Docs
+⟫⟫⟫⟫ Project Management: Agile Project Management, ( It depends on what may be best at the time )
 
-1. **[Docker Revealed: Comprehensive Guide Tailored for All Skill Levels in Docker](https://alpheus.hashnode.dev/docker-revealed-comprehensive-guide-tailored-for-all-skill-levels-in-docker):** Explore the transformative world of Docker, catering to individuals at every level of expertise.
-
-2. **[Embracing Git: Your Guide to the Ultimate Version Control System](https://alpheus.hashnode.dev/embracing-git-your-guide-to-the-ultimate-version-control-system):** Delve into the power of Git for effective version control and collaborative development.
+Some of the above skills I have practiced and have proof of, and some I am actively learning currently.
 
 ## 🌐 Connect with Me:
 
