@@ -14,24 +14,155 @@
 
 # DevOps Skills:
 
-<p><h3>1. Cloud Platforms:</h3> AWS (Amazon Web Services), Azure, Google Cloud Platform (GCP), DigitalOceans </p> <p><h3>2. Infrastructure as Code (IaC):</h3> Terraform, CloudFormation, ARM Templates</p>
- <p><h3>3. Containerization:</h3> Docker, Kubernetes, Amazon ECS, Google Kubernetes Engine (GKE)</p>
- <p><h3>4.Configuration Management:</h3> Ansible, Puppet, Chef, SaltStack</p>
-<p><h3>5. Continuous Integration/Continuous Deployment (CI/CD):</h3> Jenkins, GitLab CI/CD, CircleCI, Travis CI</p>
- <p><h3>6. Version Control Systems:</h3> Git( GitHub, GitLab, Bitbucket), SVN etc.</p>
- <p><h3>7. Monitoring and Logging:</h3> Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Splunk</p>
- <p><h3>8. Security:</h3> Identity and Access Management (IAM), Security Groups, VPNs, Security Compliance (PCI DSS, HIPAA)</p>
- <p><h3>9. Networking:</h3> TCP/IP, DNS, VPN, Load Balancing (ELB, ALB, NLB), CDN</p>
- <p><h3>10. Scripting and Automation:</h3> Bash, Python, PowerShell, Ruby</p>
- <p><h3>11.  Database Management:</h3> MySQL, PostgreSQL, MongoDB, Amazon RDS, Amazon DynamoDB</p>
-<p><h3>12. Infrastructure Monitoring:</h3>  Nagios, Zabbix, Datadog, New Relic</p>
- <p><h3>13. Orchestration:</h3> Terraform, Kubernetes, AWS ECS, Docker Swarm</p>
- <p><h3>14. Deployment Strategies:</h3> Blue/Green Deployment, Canary Deployment, Rolling Deployment</p>
-  <p><h3>15. High Availability and Disaster Recovery:</h3> Multi-AZ Deployments, Auto Scaling, Disaster Recovery Planning</p>
-  <p><h3>16. Collaboration and Communication Tools:</h3> Slack, Microsoft Teams, Zoom, Jira, Confluence</p>
-  <p><h3>17. Agile Methodologies:</h3> Scrum, Kanban, Agile Frameworks</p>
-  <p><h3>18. Documentation:</h3> Markdown, AsciiDoc, Sphinx, Read the Docs</p>
-  <p><h3>19. Project Management:</h3> Agile Project Management, ( It depends on what may be best at the time )</p>
+<ul>
+  <li>Cloud Platforms:
+    <ul>
+      <li>AWS (Amazon Web Services)</li>
+      <li>Azure</li>
+      <li>Google Cloud Platform (GCP)</li>
+      <li>DigitalOcean</li>
+    </ul>
+  </li>
+  <li>Infrastructure as Code (IaC):
+    <ul>
+      <li>Terraform</li>
+      <li>CloudFormation</li>
+      <li>ARM Templates</li>
+    </ul>
+  </li>
+  <li>Containerization:
+    <ul>
+      <li>Docker</li>
+      <li>Kubernetes</li>
+      <li>Amazon ECS</li>
+      <li>Google Kubernetes Engine (GKE)</li>
+    </ul>
+  </li>
+  <li>Configuration Management:
+    <ul>
+      <li>Ansible</li>
+      <li>Puppet</li>
+      <li>Chef</li>
+      <li>SaltStack</li>
+    </ul>
+  </li>
+  <li>Continuous Integration/Continuous Deployment (CI/CD):
+    <ul>
+      <li>Jenkins</li>
+      <li>GitLab CI/CD</li>
+      <li>CircleCI</li>
+      <li>Travis CI</li>
+    </ul>
+  </li>
+  <li>Version Control Systems:
+    <ul>
+      <li>Git (GitHub, GitLab, Bitbucket)</li>
+      <li>SVN</li>
+    </ul>
+  </li>
+  <li>Monitoring and Logging:
+    <ul>
+      <li>Prometheus</li>
+      <li>Grafana</li>
+      <li>ELK Stack (Elasticsearch, Logstash, Kibana)</li>
+      <li>Splunk</li>
+    </ul>
+  </li>
+  <li>Security:
+    <ul>
+      <li>Identity and Access Management (IAM)</li>
+      <li>Security Groups</li>
+      <li>VPNs</li>
+      <li>Security Compliance (PCI DSS, HIPAA)</li>
+    </ul>
+  </li>
+  <li>Networking:
+    <ul>
+      <li>TCP/IP</li>
+      <li>DNS</li>
+      <li>VPN</li>
+      <li>Load Balancing (ELB, ALB, NLB)</li>
+      <li>CDN</li>
+    </ul>
+  </li>
+  <li>Scripting and Automation:
+    <ul>
+      <li>Bash</li>
+      <li>Python</li>
+      <li>PowerShell</li>
+      <li>Ruby</li>
+    </ul>
+  </li>
+  <li>Database Management:
+    <ul>
+      <li>MySQL</li>
+      <li>PostgreSQL</li>
+      <li>MongoDB</li>
+      <li>Amazon RDS</li>
+      <li>Amazon DynamoDB</li>
+    </ul>
+  </li>
+  <li>Infrastructure Monitoring:
+    <ul>
+      <li>Nagios</li>
+      <li>Zabbix</li>
+      <li>Datadog</li>
+      <li>New Relic</li>
+    </ul>
+  </li>
+  <li>Orchestration:
+    <ul>
+      <li>Terraform</li>
+      <li>Kubernetes</li>
+      <li>AWS ECS</li>
+      <li>Docker Swarm</li>
+    </ul>
+  </li>
+  <li>Deployment Strategies:
+    <ul>
+      <li>Blue/Green Deployment</li>
+      <li>Canary Deployment</li>
+      <li>Rolling Deployment</li>
+    </ul>
+  </li>
+  <li>High Availability and Disaster Recovery:
+    <ul>
+      <li>Multi-AZ Deployments</li>
+      <li>Auto Scaling</li>
+      <li>Disaster Recovery Planning</li>
+    </ul>
+  </li>
+  <li>Collaboration and Communication Tools:
+    <ul>
+      <li>Slack</li>
+      <li>Microsoft Teams</li>
+      <li>Zoom</li>
+      <li>Jira</li>
+      <li>Confluence</li>
+    </ul>
+  </li>
+  <li>Agile Methodologies:
+    <ul>
+      <li>Scrum</li>
+      <li>Kanban</li>
+      <li>Agile Frameworks</li>
+    </ul>
+  </li>
+  <li>Documentation:
+    <ul>
+      <li>Markdown</li>
+      <li>AsciiDoc</li>
+      <li>Sphinx</li>
+      <li>Read the Docs</li>
+    </ul>
+  </li>
+  <li>Project Management:
+    <ul>
+      <li>Agile Project Management</li>
+      <li>(It depends on what may be best at the time)</li>
+    </ul>
+  </li>
+</ul>
 
 <h4>I have demonstrated proficiency in some of the mentioned skills and possess tangible proof, while actively acquiring expertise in others.</h4>
 
